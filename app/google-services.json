@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170742130972",
+    "project_id": "androilogin2",
+    "storage_bucket": "androilogin2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170742130972:android:431d8f5f93c4549f2af2d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170742130972-fp5b2o96hddbevuo4i738m81pacvu84f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMhS7vwg8cVHSnpoeE9ZGGWn2j9BbClDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170742130972-fp5b2o96hddbevuo4i738m81pacvu84f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
